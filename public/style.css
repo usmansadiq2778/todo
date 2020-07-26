@@ -1,0 +1,30 @@
+#hd{
+   
+    color: blue;
+    font-weight: bold !important;
+}
+#title {
+background-color: red;
+color: white;
+font-weight: bold;
+}
+#description{
+    background-color: rgb(251, 255, 0);
+    color: rgb(17, 17, 17);
+    font-weight: bold;
+}
+.container{
+  background-color: rgb(255, 6, 6);
+}
+.col-md-8{
+    background-color: rgb(255, 0, 221);
+}
+#form-Task{
+    background-color: rgb(244, 247, 250);
+}
+.card-body{
+    background-color: rgb(250, 225, 208);
+}
+.col-md-4{
+    background-color: rgb(15, 255, 255);
+}
